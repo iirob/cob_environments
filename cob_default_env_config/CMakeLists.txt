@@ -39,6 +39,7 @@ SET(envlist
     ipa-apartment
     ipa-factory
     empty
+    ipr-roboterhalle
 )
 
 
