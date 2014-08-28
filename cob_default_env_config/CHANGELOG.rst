@@ -2,6 +2,19 @@
 Changelog for package cob_default_env_config
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.3 (2014-08-26)
+------------------
+* Merge pull request `#70 <https://github.com/ipa320/cob_environments/issues/70>`_ from ipa320/hydro_dev
+  add dependency to roslaunch
+* add dependency to roslaunch
+* Contributors: Florian Weisshardt
+
+0.5.2 (2014-08-25)
+------------------
+* cleaning up
+* New maintainer
+* Contributors: ipa-fxm, ipa-nhg
+
 0.5.1 (2014-03-20)
 ------------------
 * avoid error message
