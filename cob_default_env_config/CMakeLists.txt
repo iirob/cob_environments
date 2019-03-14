@@ -29,7 +29,7 @@ set(envlist
     ipa-factory
     empty
     ipr-roboterhalle
-    ipr-heika-test-env
+#    ipr-heika-test-env
 )
 
 ### INSTALL ###
